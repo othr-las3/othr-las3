@@ -2,17 +2,21 @@
 - 👀 I’m interested in safe and secure systems - especially if they involve software!
 - 📫 How to reach me https://las3.de/
 
-  OTH Regensburg
-  Fakultät Elektro- und Informationstechnik
-  Raum S 123
+---
 
-  Seybothstraße 2
-  Postfach 12 03 27
-  93025 Regensburg
+## How to reach us
 
-  Tel.: +49 941/943-9791
+    OTH Regensburg
+    Fakultät Elektro- und Informationstechnik
+    Raum S 123
 
-  E-Mail: las3atoth-regensburg.de
+    Seybothstraße 2
+    Postfach 12 03 27
+    93025 Regensburg
+
+    Tel.: +49 941/943-9791
+
+    E-Mail: las3atoth-regensburg.de
 
 
 
