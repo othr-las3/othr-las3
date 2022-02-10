@@ -16,7 +16,7 @@
 
     Tel.: +49 941/943-9791
 
-    E-Mail: las3atoth-regensburg.de
+    E-Mail: las3 <at> oth-regensburg.de
 
 
 
